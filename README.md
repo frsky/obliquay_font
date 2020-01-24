@@ -17,4 +17,7 @@ Obliquay is a friendly, mildly off-kilter headline font with a touch of 60s movi
 - 1.21
 
 ### Contributors
-- Twitter: @stsky
+- Frank Sikernitsky Twitter: @stsky
+
+### Copyright
+- Frank Sikernitsky, 2020
